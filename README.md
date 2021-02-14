@@ -43,7 +43,8 @@ int main(){
 
  return 0;
 
-//changes to work for a rectangle with a width of 6.8 inches and a lenght of 2.3 inches would be to change the variable type to float and the numbers.
+//changes to work for a rectangle with a width of 6.8 inches and a lenght of 2.3 inches would be to change the variable type to float and the numbers
+
 }
 
 # Exercise 4 - HELLO
@@ -67,6 +68,7 @@ return 0;
 }
 
 # Exercise 5 - Mistakes
+
 
 
 
