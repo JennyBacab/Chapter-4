@@ -58,19 +58,19 @@ int main(){
 
 //I'm not sure if this is what you meant, sorry in advance
 
-printf("H   H  EEEEE  L     L     OOOOO\n");
+<code>printf("H   H  EEEEE  L     L     OOOOO\n");</code>
 
-printf("H   H  E      L     L     O   O\n");
+<code>printf("H   H  E      L     L     O   O\n");</code>
 
-printf("H   H  E      L     L     O   O\n");
+<code>printf("H   H  E      L     L     O   O\n");</code>
 
-printf("HHHHH  EEEEE  L     L     O   O\n");
+<code>printf("HHHHH  EEEEE  L     L     O   O\n");</code>
 
-printf("H   H  E      L     L     O   O\n");
+<code>printf("H   H  E      L     L     O   O\n");</code>
 
-printf("H   H  E      L     L     O   O\n");
+<code>printf("H   H  E      L     L     O   O\n");</code>
 
-printf("H   H  EEEEE  LLLLL LLLLL OOOOO\n");
+<code>printf("H   H  EEEEE  LLLLL LLLLL OOOOO\n");</code>
 
 return 0;
 
