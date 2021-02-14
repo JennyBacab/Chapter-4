@@ -35,10 +35,12 @@ int main(){
  //please note all units are in inches
 
  int width = 3;
+ 
  int height = 5;
 
  int area = width*height;
- int perimeter = 2*width + 2*height;
+ 
+ int perimeter = 2* width + 2* height;
 
  printf("The area is %i inches and the perimeter is %i inches", area, perimeter);
 
