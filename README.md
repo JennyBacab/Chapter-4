@@ -63,6 +63,7 @@ printf("H   H E     L     L     O   O\n");
 printf("H   H EEEEE LLLLL LLLLL OOOOO\n");
 
 return 0;
+
 }
 
 # Exercise 5 - Mistakes
