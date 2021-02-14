@@ -51,6 +51,7 @@ int main(){
 }
 
 # Exercise 4 - HELLO
+<p>
 #include <stdio.h>
 
 int main(){
@@ -74,7 +75,7 @@ printf("H   H  EEEEE  LLLLL LLLLL OOOOO\n");
 return 0;
 
 }
-
+</p>
 # Exercise 5 - Mistakes
 
 #include <stdio.h>
