@@ -51,30 +51,7 @@ int main(){
 }
 
 # Exercise 4 - HELLO
-
-#include <stdio.h>
-
-int main(){
-
-//I'm not sure if this is what you meant, sorry in advance
-
-<code>printf("H   H  EEEEE  L     L     OOOOO\n");</code>
-
-<code>printf("H   H  E      L     L     O   O\n");</code>
-
-<code>printf("H   H  E      L     L     O   O\n");</code>
-
-<code>printf("HHHHH  EEEEE  L     L     O   O\n");</code>
-
-<code>printf("H   H  E      L     L     O   O\n");</code>
-
-<code>printf("H   H  E      L     L     O   O\n");</code>
-
-<code>printf("H   H  EEEEE  LLLLL LLLLL OOOOO\n");</code>
-
-return 0;
-
-}
+https://repl.it/@JennyBacab/Chapter4Exercises#main.c
 
 # Exercise 5 - Mistakes
 
