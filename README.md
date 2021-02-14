@@ -2,7 +2,7 @@
 Exercises from the book
 
 # Exercise 1 - SSN
-<code>
+
 #include <stdio.h>
 
 int main (){
@@ -11,22 +11,22 @@ int main (){
 
  return 0;
 }
-</code>
+
 
 # Exercise 2 - The big E
-<code>
+
 #include <stdio.h>
 
 int main (){
 
- printf("*****\n*\n*\n*****\n*\n*\n*****");
+ printf("*****\n*\n*\n***** \n*\n*\n*****");
 
  return 0;
 
 }
-</code>
+
 # Exercise 3 - Rectangle
-<code>
+
 #include <stdio.h>
 
 int main(){
@@ -46,9 +46,9 @@ int main(){
 //changes to work for a rectangle with a width of 6.8 inches and a lenght of 2.3 inches would be to change the variable type to float and the numbers
 
 }
-</code>
+
 # Exercise 4 - HELLO
-<code>
+
 #include <stdio.h>
 
 int main(){
@@ -56,25 +56,19 @@ int main(){
 //I'm not sure if this is what you meant, sorry in advance
 
 printf("H   H EEEEE L     L     OOOOO\n");
-
 printf("H   H E     L     L     O   O\n");
-
 printf("H   H E     L     L     O   O\n");
-
 printf("HHHHH EEEEE L     L     O   O\n");
-
 printf("H   H E     L     L     O   O\n");
-
 printf("H   H E     L     L     O   O\n");
-
 printf("H   H EEEEE LLLLL LLLLL OOOOO\n");
 
 return 0;
 
 }
-</code>
+
 # Exercise 5 - Mistakes
-<code>
+
 #include <stdio.h>
 
 int main(){
@@ -96,5 +90,5 @@ printf("The char is %d", plswork);
 return 0;
 
 }
-</code>
+
 
