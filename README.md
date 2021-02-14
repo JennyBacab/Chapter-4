@@ -4,8 +4,7 @@ Exercises from the book
 # Exercise 1 - SSN
 
 <code>#include <stdio.h></code>
-
-int main (){
+<code>int main (){</code>
 
  printf("My name is Jenny Guadalupe Bacab Saavedra, my SSN is 16139897306 and I was born on 09/03/1998");
 
