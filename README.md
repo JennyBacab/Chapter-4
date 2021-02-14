@@ -60,17 +60,27 @@ https://repl.it/@JennyBacab/Chapter4Exercises#main.c
 int main(){
 
 //first mistake, float as d
+
 float floatingpoint;
+
 floatingpoint = 3.05;
+
 printf("The float is %d\n", floatingpoint);
 
+
 //second mistake, integer as float
+
 int integer;
+
 integer = 3;
+
 printf("The integer is %f\n",integer);
 
+
 //third mistake, char as d
+
 char plswork ='e';
+
 printf("The char is %d", plswork);
 
 return 0;
