@@ -3,7 +3,7 @@ Exercises from the book
 
 # Exercise 1 - SSN
 
-#include <stdio.h>
+<code>#include <stdio.h></code>
 
 int main (){
 
