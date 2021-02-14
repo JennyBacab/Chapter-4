@@ -20,7 +20,7 @@ int main (){
 
 int main (){
 
- printf("* * * * *\n*\n*\n***** \n*\n*\n*****");
+ <code>printf("*****\n*\n*\n*****\n*\n*\n*****");</code>
 
  return 0;
 
