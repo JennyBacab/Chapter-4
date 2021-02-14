@@ -56,11 +56,17 @@ int main(){
 //I'm not sure if this is what you meant, sorry in advance
 
 printf("H   H EEEEE L     L     OOOOO\n");
+
 printf("H   H E     L     L     O   O\n");
+
 printf("H   H E     L     L     O   O\n");
+
 printf("HHHHH EEEEE L     L     O   O\n");
+
 printf("H   H E     L     L     O   O\n");
+
 printf("H   H E     L     L     O   O\n");
+
 printf("H   H EEEEE LLLLL LLLLL OOOOO\n");
 
 return 0;
@@ -69,6 +75,25 @@ return 0;
 
 # Exercise 5 - Mistakes
 
+#include <stdio.h>
 
+int main(){
+
+//first mistake, float as d
+float floatingpoint;
+floatingpoint = 3.05;
+printf("The float is %d\n", floatingpoint);
+
+//second mistake, integer as float
+int integer;
+integer = 3;
+printf("The integer is %f\n",integer);
+
+//third mistake, char as d
+char plswork ='e';
+printf("The char is %d", plswork);
+
+return 0;
+}
 
 
