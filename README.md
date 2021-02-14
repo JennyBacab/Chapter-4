@@ -53,6 +53,8 @@ int main(){
 # Exercise 4 - HELLO
 https://repl.it/@JennyBacab/Chapter4Exercises#main.c
 
+please note I had some trouble making github respect the spaces so I decided to leave a link while I fix it
+
 # Exercise 5 - Mistakes
 
 #include <stdio.h>
