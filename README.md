@@ -59,11 +59,17 @@ int main(){
 //I'm not sure if this is what you meant, sorry in advance
 
 printf("H   H EEEEE L     L     OOOOO\n"); 
+
 printf("H   H E     L     L     O   O\n"); 
+
 printf("H   H E     L     L     O   O\n"); 
+
 printf("HHHHH EEEEE L     L     O   O\n"); 
+
 printf("H   H E     L     L     O   O\n"); 
+
 printf("H   H E     L     L     O   O\n"); 
+
 printf("H   H EEEEE LLLLL LLLLL OOOOO\n"); 
 
 return 0;
